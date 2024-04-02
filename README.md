@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Lars' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnieuwenhuis)](https://github.com/lnieuwenhuis/github-readme-stats)
+
 
 <!--
 **lnieuwenhuis/lnieuwenhuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
