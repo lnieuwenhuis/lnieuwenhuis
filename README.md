@@ -1,4 +1,4 @@
-[![Lars' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnieuwenhuis)](https://github.com/lnieuwenhuis/github-readme-stats)
+[![Lars' GitHub stats](https://github-readme-stats.vercel.app/api?username=lnieuwenhuis&theme=dracula)](https://github.com/lnieuwenhuis/github-readme-stats)
 
 
 <!--
