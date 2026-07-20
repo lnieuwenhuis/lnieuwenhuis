@@ -7,7 +7,7 @@ Currently building Macro Tracker, Safascord and my Rust-first portfolio.
   <img
     src="./profile/stats.svg"
     alt="Lars' GitHub statistics"
-    width="65%"
+    width="64%"
   />
   <img
     src="./profile/top-langs.svg"
